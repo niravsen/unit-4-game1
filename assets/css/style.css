@@ -1,0 +1,108 @@
+
+html{
+ background-image: url("../images/waves1.jpg");
+}
+
+header{
+ width: 300px;
+ height: 75px;
+ border-radius: 15px;
+ background-color: #374a68;
+ margin: auto;
+ margin-top: 30px;
+ border: solid 5px #becee8;
+}
+
+h1 {
+ font-size: 30px;
+ color: white;
+ padding: auto;
+ padding-left: 20px;
+ font-family: 'Itim', cursive;
+ letter-spacing: 1px;
+}
+
+section {
+ background-color: #becee8;
+ border: solid 5px #374a68;
+ width: 800px;
+ height: 250px;
+ margin: auto;
+ border-radius: 15px;
+ margin-top: 20px;
+ line-height: 22px;
+}
+
+p {
+ font-family: arial;
+ padding-left: 20px;
+}
+
+#wrapper {
+ width: 960px;
+ height: 100px;
+ margin: auto;
+ margin-top: 20px;
+}
+
+#totalpoints {
+ background-color: lightyellow;
+ border: solid 5px #6c798e;
+ border-radius: 15px;
+ width: 200px;
+ height: 75px;
+ float: left;
+ margin-left: 250px;
+}
+
+#score {
+background-color: lightyellow;
+border: solid 5px #6c798e;
+border-radius: 15px; 
+width: 200px;
+height: 75px;
+float: right;
+margin-right: 250px;
+line-height: 15px;
+}
+
+#wrap {
+ height: 150;
+ width: 960px;
+ margin: auto; 
+ margin-top: 15px;  
+}
+
+img {
+ height: 125px;
+ width: 125px;
+ margin-left: 90px;
+}
+
+#wrapped {
+ height: 100px;
+ width: 960px;
+ margin: auto;
+ margin-top: 20px; 
+}
+
+#totalscore {
+ height: 75px;
+ width: 200px;
+ border: solid 5px #6c798e;
+ border-radius: 15px; 
+ background-color: lightyellow;
+ float: left;
+ margin-left: 250px;
+}
+
+
+#totalnumber {
+ height: 75px;
+ width: 200px;
+ border: solid 5px #6c798e;
+ border-radius: 15px; 
+ background-color: lightyellow;
+ float: right;
+ margin-right: 250px;
+}
